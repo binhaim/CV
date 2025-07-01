@@ -7,11 +7,13 @@
       
       {% include header.html %}
 
-      <!-- ABOUT 섹션 -->
-      <section id="about">
-        {% include about.html %}
-      </section>
-
+      <!-- ABOUT (My Expertise) 섹션 -->
+      <div class="section" id="about">
+        <div class="container">
+          {% include about.html %}
+        </div>
+      </div>
+      
       <!-- EXPERIENCE 섹션 -->
       <div class="section" id="experience">
         <div class="container">
@@ -88,10 +90,6 @@
         </div>
       </div>
       
-      {% comment %}
-        {{ content }}는 index.html의 내용을 가져오는 부분인데,
-        모든 내용을 layout에 넣었으므로 이 부분은 비워둡니다.
-      {% endcomment %}
       {{ content }}
 
       {% include footer.html %}
