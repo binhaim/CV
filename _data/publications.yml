@@ -1,0 +1,14 @@
+- title: "ConceptSplit: Decoupled Multi-Concept Personalization of Diffusion Models via Token-wise Adaptation and Attention Disentanglement"
+  conference: International Conference on Computer Vision (ICCV), 2025 # (연도 확인 필수!)
+  authors: "Habin Lim, Author 2, Author 3" # (저자명 추가)
+  url: "#" # (논문 링크 또는 Arxiv 링크 추가)
+  
+- title: "Good-Text Inversion for Faster Real Image Editing using Guided Diffusion Models"
+  conference: Korea Software Congress (KSC), 2024
+  authors: "Habin Lim, Author 2"
+  url: "#"
+
+- title: "LFS-Diffusion: Lifelong Few Shot Image Generation in Latent Diffusion Model via LeFT Weight Modulator"
+  conference: Korea Computer Congress (KCC), 2024
+  authors: "Habin Lim, Author 2"
+  url: "#"
